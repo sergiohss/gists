@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "*.inc": "php"
+    },
+    "sync.autoUpload": true,
+    "sync.autoDownload": false,
+    "sync.quietSync": false,
+    "sync.removeExtensions": false,
+    "sync.gist": "a953f1b95c9b0b401c2048311bb40da6",
+    "sync.forceUpload": true
+}
